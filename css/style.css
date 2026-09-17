@@ -1,1 +1,67 @@
+/* Reset basic spacing */
 
+body {
+
+ margin: 0;
+
+ font-family: Arial, Helvetica, sans-serif;
+
+ background-color: #f5f5f5;
+
+ color: #333;
+
+}
+
+
+
+/* Page layout */
+
+header {
+
+ background-color: #1f2937;
+
+ color: white;
+
+ padding: 20px;
+
+ text-align: center;
+
+}
+
+
+
+main {
+
+ padding: 20px;
+
+}
+
+
+
+section {
+
+ margin-bottom: 20px;
+
+ background: white;
+
+ padding: 15px;
+
+ border-radius: 6px;
+
+}
+
+
+
+/* Footer */
+
+footer {
+
+ background-color: #e5e7eb;
+
+ text-align: center;
+
+ padding: 10px;
+
+ font-size: 14px;
+
+}
